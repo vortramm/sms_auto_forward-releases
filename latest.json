@@ -1,6 +1,6 @@
 {
-  "versionCode": 37,
-  "versionName": "1.36",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/vortramm/sms_auto_forward-releases@a5f5d68c5bfc2f75ac91dbaf7594f6d3dde73608/SmsAutoForward.apk",
-  "notes": "기능 개선 및 안정성 향상"
+  "versionCode": 38,
+  "versionName": "1.37",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/vortramm/sms_auto_forward-releases@d1e129a2c03171399280804e430ec06b99e0c5ad/SmsAutoForward.apk",
+  "notes": "화면 비율 기반 분할: 폴드 내부=분할, 태블릿 세로·폴드 외부=단일"
 }
