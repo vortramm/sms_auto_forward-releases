@@ -1,6 +1,6 @@
 {
-  "versionCode": 38,
-  "versionName": "1.37",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/vortramm/sms_auto_forward-releases@d1e129a2c03171399280804e430ec06b99e0c5ad/SmsAutoForward.apk",
-  "notes": "화면 비율 기반 분할: 폴드 내부=분할, 태블릿 세로·폴드 외부=단일"
+  "versionCode": 39,
+  "versionName": "1.38",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/vortramm/sms_auto_forward-releases@d2efe6d629500f4d0a8aa7142f20f2d774d0bf1f/SmsAutoForward.apk",
+  "notes": "폴드8(4:3 내부 화면) 분할 지원 — 분할 비율 임계값 조정"
 }
