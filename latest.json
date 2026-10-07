@@ -1,6 +1,6 @@
 {
-  "versionCode": 39,
-  "versionName": "1.38",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/vortramm/sms_auto_forward-releases@d2efe6d629500f4d0a8aa7142f20f2d774d0bf1f/SmsAutoForward.apk",
-  "notes": "폴드8(4:3 내부 화면) 분할 지원 — 분할 비율 임계값 조정"
+  "versionCode": 40,
+  "versionName": "1.39",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/vortramm/sms_auto_forward-releases@8b5917d21b7aed43c69fd9578307e9eb867126d9/SmsAutoForward.apk",
+  "notes": "듀얼심 유심별 선택 전달 + 유심별 포맷 지원"
 }
