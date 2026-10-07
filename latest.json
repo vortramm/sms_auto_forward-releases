@@ -1,6 +1,6 @@
 {
-  "versionCode": 41,
-  "versionName": "1.40",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/vortramm/sms_auto_forward-releases@9ffa5e15b5f96c90863e29db429442951a0f4d2c/SmsAutoForward.apk",
-  "notes": "MMS도 유심별 구분 적용 (SMS에 이어)"
+  "versionCode": 42,
+  "versionName": "1.41",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/vortramm/sms_auto_forward-releases@334bbb2f166ac519384b9c649a1be6767bd20d29/SmsAutoForward.apk",
+  "notes": "MMS 발신자 인식 개선 + 다운로드 완료까지 대기 후 전달(빈 MMS 방지)"
 }
