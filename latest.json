@@ -1,6 +1,6 @@
 {
-  "versionCode": 40,
-  "versionName": "1.39",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/vortramm/sms_auto_forward-releases@8b5917d21b7aed43c69fd9578307e9eb867126d9/SmsAutoForward.apk",
-  "notes": "듀얼심 유심별 선택 전달 + 유심별 포맷 지원"
+  "versionCode": 41,
+  "versionName": "1.40",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/vortramm/sms_auto_forward-releases@9ffa5e15b5f96c90863e29db429442951a0f4d2c/SmsAutoForward.apk",
+  "notes": "MMS도 유심별 구분 적용 (SMS에 이어)"
 }
