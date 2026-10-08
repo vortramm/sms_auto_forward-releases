@@ -1,6 +1,6 @@
 {
-  "versionCode": 43,
-  "versionName": "1.42",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/vortramm/sms_auto_forward-releases@eb1e591535b3a223bd8fefc829081c7dd1248c1a/SmsAutoForward.apk",
-  "notes": "전달 중복 방지(한 목적지 실패 재시도 시 이미 성공한 목적지 재전송 방지)"
+  "versionCode": 44,
+  "versionName": "1.43",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/vortramm/sms_auto_forward-releases@b8c8ba3b85a342180ec968813be30e137b5b772b/SmsAutoForward.apk",
+  "notes": "기능 개선 및 안정성 향상"
 }
