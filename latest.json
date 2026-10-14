@@ -1,6 +1,6 @@
 {
-  "versionCode": 52,
-  "versionName": "1.51",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/vortramm/sms_auto_forward-releases@e657f9ba2ec732d225e0369f778a80328cd362be/SmsAutoForward.apk",
+  "versionCode": 53,
+  "versionName": "1.52",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/vortramm/sms_auto_forward-releases@841d48fe6bb5a72679a54b765fcfe0755b5b0781/SmsAutoForward.apk",
   "notes": "기능 개선 및 안정성 향상"
 }
