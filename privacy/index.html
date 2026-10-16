@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SMS Auto Forward 개인정보처리방침 / Privacy Policy</title>
+<style>
+  :root { --fg:#1d1f24; --muted:#5a606b; --bg:#ffffff; --line:#e3e6eb; --accent:#4f46a5; }
+  @media (prefers-color-scheme: dark) { :root { --fg:#e6e8ec; --muted:#a3a9b4; --bg:#1b1d23; --line:#30343d; --accent:#a9a3ff; } }
+  body { margin:0; background:var(--bg); color:var(--fg); font:16px/1.65 -apple-system, "Noto Sans KR", "Apple SD Gothic Neo", Roboto, sans-serif; }
+  main { max-width: 760px; margin: 0 auto; padding: 32px 16px 64px; }
+  h1 { font-size: 1.6rem; margin: 0 0 4px; }
+  h2 { font-size: 1.15rem; margin: 28px 0 8px; padding-top: 12px; border-top: 1px solid var(--line); }
+  .meta { color: var(--muted); margin: 0 0 20px; }
+  table { border-collapse: collapse; width: 100%; font-size: .95rem; }
+  th, td { text-align: left; vertical-align: top; padding: 8px; border-bottom: 1px solid var(--line); }
+  a { color: var(--accent); }
+  nav a { margin-right: 12px; }
+  .lang { margin-top: 48px; }
+</style>
+</head>
+<body>
+<main>
+<nav><a href="#ko">한국어</a><a href="#en">English</a></nav>
+
+<section id="ko">
+<h1>SMS Auto Forward 개인정보처리방침</h1>
+<p class="meta">시행일: 2026년 10월 16일 · 문의: <a href="mailto:biii@duck.com">biii@duck.com</a></p>
+
+<p><b>요약:</b> SMS Auto Forward(이하 "앱")는 사용자가 <b>본인 휴대폰으로 받은 문자(SMS·MMS)</b>를 <b>사용자가 직접 지정한 본인의 다른 수신처</b>(텔레그램, 이메일, 다른 전화번호)로 전달·동기화하는 앱입니다. 개발자는 별도의 서버를 운영하지 않으며, 사용자의 문자나 개인정보를 <b>수집·보관·열람하지 않습니다.</b> 광고와 분석·추적 도구도 없습니다.</p>
+
+<h2>1. 앱이 다루는 정보와 이유</h2>
+<table>
+<tr><th>정보</th><th>사용 목적</th></tr>
+<tr><td>받은 문자·MMS의 내용(사진 포함), 보낸 사람 번호, 받은 시각</td><td>사용자가 지정한 수신처로 전달하기 위해 (앱의 핵심 기능)</td></tr>
+<tr><td>문자를 받은 유심(SIM) 정보: 통신사 이름, 슬롯, 내 전화번호</td><td>듀얼심 기기에서 유심별 전달 규칙 적용, 전달 메시지에 "받은 번호" 표시</td></tr>
+<tr><td>사용자가 입력한 설정: 텔레그램 봇 토큰·채팅 ID, 이메일(SMTP) 계정·앱 비밀번호·받는 주소, 전달받을 전화번호</td><td>전달을 실행하기 위해</td></tr>
+</table>
+
+<h2>2. 정보가 가는 곳</h2>
+<p>문자 내용은 <b>사용자가 켠 전달 방식으로만</b> 보내집니다.</p>
+<ul>
+<li><b>텔레그램:</b> 사용자가 만든 봇을 통해 사용자의 텔레그램 대화방으로 (Telegram API, HTTPS 암호화)</li>
+<li><b>이메일:</b> 사용자가 입력한 메일 서버(예: Gmail)를 통해 사용자가 지정한 주소로 (TLS 암호화)</li>
+<li><b>문자:</b> 사용자가 지정한 전화번호로 휴대폰의 문자 기능을 통해 (통신사 요금이 발생할 수 있음)</li>
+</ul>
+<p>개발자나 그 밖의 제3자에게는 어떤 정보도 보내지 않습니다. 정보를 판매하거나 광고에 쓰지 않습니다.</p>
+
+<h2>3. 휴대폰 안에 저장되는 정보</h2>
+<ul>
+<li><b>설정값:</b> 텔레그램 봇 토큰과 이메일 앱 비밀번호는 안드로이드 키스토어 기반 암호화 저장소에 보관합니다.</li>
+<li><b>최근 전달 기록과 진단 로그:</b> 전달 성공·실패 확인을 위해 최근 내역(보낸 사람, 내용 일부)을 휴대폰 안에만 보관합니다. 전달에 실패한 경우 내용을 잃지 않도록 로그에 함께 남깁니다. 진단 화면의 "로그 지우기"로 언제든 삭제할 수 있습니다.</li>
+<li><b>MMS 사진:</b> 전달하는 동안만 앱 전용 저장 공간에 임시로 둡니다.</li>
+<li>앱을 삭제하면 위 정보는 모두 휴대폰에서 지워집니다. 앱의 백업 기능은 꺼져 있어 클라우드 백업으로 옮겨지지 않습니다.</li>
+</ul>
+
+<h2>4. 앱이 요청하는 권한</h2>
+<table>
+<tr><th>권한</th><th>이유</th></tr>
+<tr><td>문자 받기·읽기 (RECEIVE_SMS, READ_SMS, RECEIVE_MMS)</td><td>받은 문자·MMS를 읽어 전달 (핵심 기능)</td></tr>
+<tr><td>문자 보내기 (SEND_SMS)</td><td>"문자로 전달"을 켠 경우에만, 지정한 번호로 보내기</td></tr>
+<tr><td>전화 상태·전화번호 (READ_PHONE_STATE, READ_PHONE_NUMBERS)</td><td>어느 유심으로 받은 문자인지 구분하고 내 번호 표시</td></tr>
+<tr><td>인터넷, 알림, 부팅 후 시작, 포그라운드 서비스, 배터리 최적화 제외 요청</td><td>텔레그램·이메일 전송, 실행 중 표시, 재부팅·절전 상태에서도 놓치지 않고 전달</td></tr>
+</table>
+
+<h2>5. 사용자의 선택과 권리</h2>
+<ul>
+<li>처음 실행할 때 동의 화면에서 이 앱이 본인 기기의 본인 문자를 본인 수신처로 전달하는 용도임을 확인합니다.</li>
+<li>전달 방식별·유심별로 언제든 끄고 켤 수 있고, 전체 전달도 한 번에 끌 수 있습니다.</li>
+<li>권한은 안드로이드 설정에서 언제든 거둘 수 있습니다. 앱 삭제로 모든 데이터가 지워집니다.</li>
+<li>개발자가 보관하는 정보가 없으므로 열람·삭제를 요청할 대상 데이터도 없습니다. 궁금한 점은 위 이메일로 문의하세요.</li>
+</ul>
+
+<h2>6. 아동</h2>
+<p>이 앱은 만 14세 미만 아동을 대상으로 하지 않습니다.</p>
+
+<h2>7. 변경</h2>
+<p>이 방침이 바뀌면 이 페이지에 새 시행일과 함께 게시합니다.</p>
+</section>
+
+<section id="en" class="lang">
+<h1>SMS Auto Forward Privacy Policy</h1>
+<p class="meta">Effective: October 16, 2026 · Contact: <a href="mailto:biii@duck.com">biii@duck.com</a></p>
+
+<p><b>Summary:</b> SMS Auto Forward ("the app") forwards and syncs the SMS/MMS messages <b>you receive on your own phone</b> to <b>your own destinations that you choose</b> (Telegram, email, another phone number). The developer runs no server and does <b>not collect, store or read</b> your messages or personal data. The app contains no ads, analytics or tracking.</p>
+
+<h2>1. Information the app handles, and why</h2>
+<table>
+<tr><th>Information</th><th>Purpose</th></tr>
+<tr><td>Content of received SMS/MMS (including photos), sender number, time received</td><td>To forward it to the destinations you set (the app's core function)</td></tr>
+<tr><td>Receiving SIM details: carrier name, slot, your phone number</td><td>Per-SIM forwarding rules on dual-SIM phones; showing which number received the message</td></tr>
+<tr><td>Settings you enter: Telegram bot token and chat ID, email (SMTP) account, app password and recipient address, forwarding phone number</td><td>To perform the forwarding</td></tr>
+</table>
+
+<h2>2. Where information goes</h2>
+<p>Message content is sent <b>only through the forwarding methods you turn on</b>:</p>
+<ul>
+<li><b>Telegram:</b> through your own bot to your own chat (Telegram API, HTTPS)</li>
+<li><b>Email:</b> through the mail server you enter (e.g. Gmail) to the address you choose (TLS)</li>
+<li><b>SMS:</b> to the phone number you choose, using your phone's messaging (carrier charges may apply)</li>
+</ul>
+<p>Nothing is sent to the developer or any other third party. Information is never sold or used for advertising.</p>
+
+<h2>3. Information stored on your phone</h2>
+<ul>
+<li><b>Settings:</b> the Telegram bot token and email app password are kept in encrypted storage backed by the Android Keystore.</li>
+<li><b>Recent forwarding history and diagnostics log:</b> kept only on your phone (sender, part of the content) so you can see what was forwarded; if forwarding fails, the content is kept in the log so it is not lost. You can delete it anytime with "Clear log".</li>
+<li><b>MMS photos:</b> held temporarily in the app's private storage while being forwarded.</li>
+<li>Uninstalling the app removes all of the above. App backup is disabled, so this data is not copied to cloud backups.</li>
+</ul>
+
+<h2>4. Permissions</h2>
+<table>
+<tr><th>Permission</th><th>Reason</th></tr>
+<tr><td>Receive/read SMS, receive MMS</td><td>Read received messages to forward them (core function)</td></tr>
+<tr><td>Send SMS</td><td>Only if you turn on "Forward by SMS", to send to the number you set</td></tr>
+<tr><td>Phone state, phone numbers</td><td>Tell which SIM received a message and show your number</td></tr>
+<tr><td>Internet, notifications, start at boot, foreground service, battery-optimization exemption request</td><td>Send via Telegram/email, show that forwarding is running, keep forwarding after reboot and in power saving</td></tr>
+</table>
+
+<h2>5. Your choices</h2>
+<ul>
+<li>On first launch, a consent screen confirms the app is for forwarding your own messages on your own device to your own destinations.</li>
+<li>You can turn each method, each SIM, or all forwarding on and off at any time.</li>
+<li>You can revoke permissions in Android settings at any time; uninstalling deletes all data.</li>
+<li>The developer holds no data about you, so there is nothing to access or delete on our side. Questions: email above.</li>
+</ul>
+
+<h2>6. Children</h2>
+<p>The app is not directed to children under 14.</p>
+
+<h2>7. Changes</h2>
+<p>Changes to this policy will be posted on this page with a new effective date.</p>
+</section>
+</main>
+</body>
+</html>
