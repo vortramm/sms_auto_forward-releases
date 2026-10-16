@@ -49,8 +49,9 @@
 <h2>3. 휴대폰 안에 저장되는 정보</h2>
 <ul>
 <li><b>설정값:</b> 텔레그램 봇 토큰과 이메일 앱 비밀번호는 안드로이드 키스토어 기반 암호화 저장소에 보관합니다.</li>
-<li><b>최근 전달 기록과 진단 로그:</b> 전달 성공·실패 확인을 위해 최근 내역(보낸 사람, 내용 일부)을 휴대폰 안에만 보관합니다. 전달에 실패한 경우 내용을 잃지 않도록 로그에 함께 남깁니다. 진단 화면의 "로그 지우기"로 언제든 삭제할 수 있습니다.</li>
-<li><b>MMS 사진:</b> 전달하는 동안만 앱 전용 저장 공간에 임시로 둡니다.</li>
+<li><b>최근 전달 기록:</b> 전달 성공·실패를 확인할 수 있도록 최근 40건(보낸 사람, 내용 앞부분 최대 120자)만 휴대폰 안에 보관하며, 오래된 기록은 자동으로 지워집니다.</li>
+<li><b>진단 로그:</b> 앱 동작 기록을 휴대폰 안에만 보관합니다. 전달에 실패한 경우 내용을 잃지 않도록 로그에 함께 남깁니다. 진단 화면의 "로그 지우기"로 언제든 삭제할 수 있습니다.</li>
+<li><b>MMS 사진:</b> 전달하는 동안만 앱 전용 저장 공간에 두고, 전달이 끝나면 지웁니다.</li>
 <li>앱을 삭제하면 위 정보는 모두 휴대폰에서 지워집니다. 앱의 백업 기능은 꺼져 있어 클라우드 백업으로 옮겨지지 않습니다.</li>
 </ul>
 
@@ -104,8 +105,9 @@
 <h2>3. Information stored on your phone</h2>
 <ul>
 <li><b>Settings:</b> the Telegram bot token and email app password are kept in encrypted storage backed by the Android Keystore.</li>
-<li><b>Recent forwarding history and diagnostics log:</b> kept only on your phone (sender, part of the content) so you can see what was forwarded; if forwarding fails, the content is kept in the log so it is not lost. You can delete it anytime with "Clear log".</li>
-<li><b>MMS photos:</b> held temporarily in the app's private storage while being forwarded.</li>
+<li><b>Recent forwarding history:</b> only the latest 40 entries (sender, first 120 characters of the content) are kept on your phone so you can see what was forwarded; older entries are removed automatically.</li>
+<li><b>Diagnostics log:</b> a record of the app's activity, kept only on your phone; if forwarding fails, the content is kept in the log so it is not lost. You can delete it anytime with "Clear log".</li>
+<li><b>MMS photos:</b> held in the app's private storage only while being forwarded, then deleted.</li>
 <li>Uninstalling the app removes all of the above. App backup is disabled, so this data is not copied to cloud backups.</li>
 </ul>
 
