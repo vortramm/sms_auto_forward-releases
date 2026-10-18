@@ -1,6 +1,6 @@
 {
-  "versionCode": 54,
-  "versionName": "1.53",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/vortramm/sms_auto_forward-releases@5bead09bc4d16cbab3cb8eff37c2992c4d6dbebe/SmsAutoForward.apk",
-  "notes": "라이트 모드 상태표시줄 아이콘이 보이지 않던 문제 수정 (안드로이드 15 이상)"
+  "versionCode": 55,
+  "versionName": "1.54",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/vortramm/sms_auto_forward-releases@10effa7b48ea2b85c16825c37220a061ff562cb1/SmsAutoForward.apk",
+  "notes": "문자 권한이 꺼져 있으면 메인 화면에 안내 표시, 잘못된 입력·불가능한 동작은 확인 창으로 안내, 전화번호·이메일 형식 검사 추가"
 }
