@@ -1,6 +1,6 @@
 {
-  "versionCode": 53,
-  "versionName": "1.52",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/vortramm/sms_auto_forward-releases@841d48fe6bb5a72679a54b765fcfe0755b5b0781/SmsAutoForward.apk",
-  "notes": "기능 개선 및 안정성 향상"
+  "versionCode": 54,
+  "versionName": "1.53",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/vortramm/sms_auto_forward-releases@5bead09bc4d16cbab3cb8eff37c2992c4d6dbebe/SmsAutoForward.apk",
+  "notes": "라이트 모드 상태표시줄 아이콘이 보이지 않던 문제 수정 (안드로이드 15 이상)"
 }
