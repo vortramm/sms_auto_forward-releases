@@ -1,6 +1,6 @@
 {
-  "versionCode": 55,
-  "versionName": "1.54",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/vortramm/sms_auto_forward-releases@10effa7b48ea2b85c16825c37220a061ff562cb1/SmsAutoForward.apk",
-  "notes": "문자 권한이 꺼져 있으면 메인 화면에 안내 표시, 잘못된 입력·불가능한 동작은 확인 창으로 안내, 전화번호·이메일 형식 검사 추가"
+  "versionCode": 56,
+  "versionName": "1.55",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/vortramm/sms_auto_forward-releases@772660cf8673ba07e29e8be470c7787ad3c42e3b/SmsAutoForward.apk",
+  "notes": "권한을 거부하면 화면이 계속 깜빡이고 아무것도 눌리지 않던 문제 수정"
 }
