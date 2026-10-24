@@ -1,6 +1,6 @@
 {
-  "versionCode": 58,
-  "versionName": "1.57",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/vortramm/sms_auto_forward-releases@9c3ec0dc39fef063ee3246421a9f1623103404c1/SmsAutoForward.apk",
-  "notes": "배터리 부족 알림에 어떤 기기인지(휴대폰 이름·모델)와 번호를 함께 표시"
+  "versionCode": 59,
+  "versionName": "1.58",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/vortramm/sms_auto_forward-releases@3fc27063e2c5d13ed990a218606d7a719d4fbc4a/SmsAutoForward.apk",
+  "notes": "배터리 부족 알림 안정성 개선: 중복 알림 방지, 설정 즉시 확인, 기기 이름 인식 개선"
 }
