@@ -1,6 +1,6 @@
 {
-  "versionCode": 56,
-  "versionName": "1.55",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/vortramm/sms_auto_forward-releases@772660cf8673ba07e29e8be470c7787ad3c42e3b/SmsAutoForward.apk",
-  "notes": "권한을 거부하면 화면이 계속 깜빡이고 아무것도 눌리지 않던 문제 수정"
+  "versionCode": 57,
+  "versionName": "1.56",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/vortramm/sms_auto_forward-releases@39d876832039ebbdac8da8a7344c2ee42e88feae/SmsAutoForward.apk",
+  "notes": "배터리 부족 알림 추가 (설정 → 배터리 부족 알림): 배터리가 정한 값 이하로 떨어지면 켜둔 전달 방식으로 알려줘요"
 }
