@@ -1,6 +1,6 @@
 {
-  "versionCode": 57,
-  "versionName": "1.56",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/vortramm/sms_auto_forward-releases@39d876832039ebbdac8da8a7344c2ee42e88feae/SmsAutoForward.apk",
-  "notes": "배터리 부족 알림 추가 (설정 → 배터리 부족 알림): 배터리가 정한 값 이하로 떨어지면 켜둔 전달 방식으로 알려줘요"
+  "versionCode": 58,
+  "versionName": "1.57",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/vortramm/sms_auto_forward-releases@9c3ec0dc39fef063ee3246421a9f1623103404c1/SmsAutoForward.apk",
+  "notes": "배터리 부족 알림에 어떤 기기인지(휴대폰 이름·모델)와 번호를 함께 표시"
 }
