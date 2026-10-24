@@ -1,6 +1,6 @@
 {
-  "versionCode": 60,
-  "versionName": "1.59",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/vortramm/sms_auto_forward-releases@1e951fa64879c0611aa2001aede018e7d4c1827d/SmsAutoForward.apk",
-  "notes": "전화·알림 권한은 한 번만 묻기, 권한이 필요한 기능을 켤 때 이유와 [권한 허용] 안내"
+  "versionCode": 61,
+  "versionName": "1.60",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/vortramm/sms_auto_forward-releases@6c4547da5cbf6671589dfbaee4d7f54fcfaa5203/SmsAutoForward.apk",
+  "notes": "버그 수정: 문자로 전달 권한 안내, 받는 이메일 여러 개 허용, 배터리 알림(데이터 없을 때 문자 발송·충전기 접촉 불량 시 중복 방지)"
 }
