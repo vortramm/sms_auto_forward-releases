@@ -1,6 +1,6 @@
 {
-  "versionCode": 59,
-  "versionName": "1.58",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/vortramm/sms_auto_forward-releases@3fc27063e2c5d13ed990a218606d7a719d4fbc4a/SmsAutoForward.apk",
-  "notes": "배터리 부족 알림 안정성 개선: 중복 알림 방지, 설정 즉시 확인, 기기 이름 인식 개선"
+  "versionCode": 60,
+  "versionName": "1.59",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/vortramm/sms_auto_forward-releases@1e951fa64879c0611aa2001aede018e7d4c1827d/SmsAutoForward.apk",
+  "notes": "전화·알림 권한은 한 번만 묻기, 권한이 필요한 기능을 켤 때 이유와 [권한 허용] 안내"
 }
