@@ -1,6 +1,6 @@
 {
-  "versionCode": 62,
-  "versionName": "1.61",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/vortramm/sms_auto_forward-releases@fe8368d9e8d30201d90789f7187639447247b899/SmsAutoForward.apk",
-  "notes": "배터리 부족 알림을 여러 단계로 설정 가능 (예: 30%와 10%)"
+  "versionCode": 63,
+  "versionName": "1.61.1",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/vortramm/sms_auto_forward-releases@23ce4e42cbdfc62a31cc44b8389925423d0b7e85/SmsAutoForward.apk",
+  "notes": "충전기 접촉 불량으로 충전이 됐다 안 됐다 할 때 배터리 알림이 반복되지 않도록 개선 (같은 단계는 1시간에 한 번까지)"
 }
