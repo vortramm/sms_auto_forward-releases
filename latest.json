@@ -1,6 +1,6 @@
 {
-  "versionCode": 64,
-  "versionName": "1.62",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/vortramm/sms_auto_forward-releases@dff5c821e7e473bb53e757a9d63709d9e9003319/SmsAutoForward.apk",
-  "notes": "보낼 곳과 보낼 것을 나눴어요: 문자(SMS)·장문(LMS)·사진(MMS)·배터리 알림을 각각 켜고 끌 수 있고, 메시지 전달 없이 배터리 알림만 받을 수도 있어요"
+  "versionCode": 65,
+  "versionName": "1.62.1",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/vortramm/sms_auto_forward-releases@64f5fb69e640919fcbcf2735a59029d082c13f8a/SmsAutoForward.apk",
+  "notes": "스크롤 없이 한눈에 보이게 화면을 정리했어요: 문자·장문·사진 선택을 한 줄로, 설정 화면의 전달 형식(템플릿)은 접어 두고 테스트·저장 버튼을 나란히"
 }
