@@ -1,6 +1,6 @@
 {
-  "versionCode": 65,
-  "versionName": "1.62.1",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/vortramm/sms_auto_forward-releases@64f5fb69e640919fcbcf2735a59029d082c13f8a/SmsAutoForward.apk",
-  "notes": "스크롤 없이 한눈에 보이게 화면을 정리했어요: 문자·장문·사진 선택을 한 줄로, 설정 화면의 전달 형식(템플릿)은 접어 두고 테스트·저장 버튼을 나란히"
+  "versionCode": 66,
+  "versionName": "1.63",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/vortramm/sms_auto_forward-releases@d6245412a9351f9d12ea3c769c1a93f23e1bc0e6/SmsAutoForward.apk",
+  "notes": "전달 메시지에 어느 폰에서 왔는지(기기 이름·모델) 함께 적어요. ⋮ → 설정에서 끌 수 있어요. 좁은 화면에서 '테스트 보내기'·'저장' 단추 글자가 두 줄로 깨지던 문제도 고쳤어요."
 }
