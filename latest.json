@@ -1,6 +1,6 @@
 {
-  "versionCode": 67,
-  "versionName": "1.64",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/vortramm/sms_auto_forward-releases@ac7838ea65e0ace3a2e7c3e0c9e2840cf64bbf27/SmsAutoForward.apk",
-  "notes": "새 시작 애니메이션: 앱 아이콘이 나뉘어 이메일·문자·텔레그램으로 전달되는 모습이에요(화면을 누르면 건너뛰어요)."
+  "versionCode": 68,
+  "versionName": "1.65",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/vortramm/sms_auto_forward-releases@e8f93423d5a7b3c1f3a99bfa63448d3da593a364/SmsAutoForward.apk",
+  "notes": "배터리 알림 이모티콘이 잔량에 따라 바뀌어요(🔋 → 🪫 → 🪫❗). 문자로 보내기 설정에서 '받은 번호 함께 보내기'를 끌 수 있어요."
 }
